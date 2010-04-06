@@ -146,6 +146,7 @@ module Bio
   #  autoload :Parser,       'bio/db/phyloxml/phyloxml_parser'
   #  autoload :Writer,       'bio/db/phyloxml/phyloxml_writer'
   #end
+  autoload :NeXML,           'bio/db/nexml/reader'
 
   ### IO interface modules
 
