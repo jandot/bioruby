@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nex:nexml 
+	version="0.8"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.nexml.org/1.0 ../xsd/nexml.xsd"
+	xmlns:nex="http://www.nexml.org/1.0"
+	generator="mesquite"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://www.nexml.org/1.0">
+	<otus 
+		id="taxa1" 
+		label="My taxa block" 
+		xml:base="http://example.org/" 
+		xml:id="taxa1" 
+		class="taxset1" 
+		xml:lang="EN" 
+		xlink:href="#taxa1">
+		<otu id="t1"/>
+		<otu id="t2"/>
+		<otu id="t3"/>
+		<otu id="t4"/>
+		<otu id="t5"/>
+	</otus>
+</nex:nexml>
