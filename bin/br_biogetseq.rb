@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#! /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby
 # 
 # = biogetseq - OBDA sequence data retrieval (executable)
 # 
